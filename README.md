@@ -13,7 +13,6 @@
 <h3 dir="rtl" style="text-align: right;direction: rtl;">:whale2: آموزش استفاده از فایل دیپلوی</h3>
 <p dir="rtl" style="text-align: right;direction: rtl;">
 این فایل دو تا پارامتر میگیرد که اولی ورژن و دومی نام سرویس میباشید</p>
-<br>
 ٰ<p dir="rtl" style="text-align: right;direction: rtl;">مثال:
 </p>
 <pre dir="rtl" style="text-align: right;direction: rtl;">$ python3 deploy.py 10 mybot</pre>
