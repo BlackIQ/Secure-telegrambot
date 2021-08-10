@@ -1,7 +1,9 @@
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
-<a align="right" href="https://heroku.com/deploy">
+<div align="right">
+<a href="https://heroku.com/deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
+  </div>
 <p style="text-align: right;direction: rtl;" dir="rtl">معمولا تلگرام این اجازه رو میده که هرکسی بتونه وارد چت شخصی به اصطلاح پی وی بشه این ربات با ارسال پیام حفظ این حریم رو
   به فرد تذکر میده :)</p>
 <br>
