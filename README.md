@@ -1,7 +1,7 @@
 
   <div align="center">
     <img src="review.jpg" alt="review telegram" style="max-width: 100%;">
-  <a href="https://heroku.com/deploy"><img src"https://www.herokucdn.com/deploy/button.svg"></a>
+    <img src"https://www.herokucdn.com/deploy/button.svg">
 </div>
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
 
