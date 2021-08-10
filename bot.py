@@ -15,6 +15,7 @@ def dontSend(client, message):
     contact = app.get_contacts()
     firstname = message.from_user.first_name
     
+    check = True
     for init in contact:
         if init["first_name"] == firstname:
             
