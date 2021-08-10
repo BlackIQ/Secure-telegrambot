@@ -1,15 +1,6 @@
-<html dir="rtl" lang="fa">
-  <body>
-<div align="right">
-  <h1></h1>
-  <pre> 
-  </pre>
-  
-  </body>
-    </html>
-  
+
   <div style="text-align: center;padding: 0;margin: 0;">
-    <img src="https://dontasktoask.ir/DontAskToAsk.png" alt="نپرس که بپرسم، فقط بپرس !" style="max-width: 100%;">
+    <img src="review.png" alt="review telegram" style="max-width: 100%;">
 </div>
 
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
