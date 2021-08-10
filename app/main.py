@@ -3,8 +3,8 @@
 from logging import fatal
 from pyrogram import Client , filters
 
-api_id = 6148729
-api_hash = "c53cf9fd8f534a0c0a176cc0723bf42f"
+api_id = "YOUR ID"
+api_hash = "YOUR HASH"
 
 app = Client("my_account", api_id, api_hash)
     
