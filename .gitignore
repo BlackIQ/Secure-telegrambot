@@ -6,9 +6,3 @@ venv
 
 # PaaS directory
 .fandogh
-
-# Python files
-deploy.py
-
-# Complided C files
-a.out
