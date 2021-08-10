@@ -1,5 +1,5 @@
 
-  <div style="text-align: center;padding: 0;margin: 0;">
+  <div style="text-align: right;padding: 0;margin: 0;">
     <img src="review.png" alt="review telegram" style="max-width: 100%;">
 </div>
 
