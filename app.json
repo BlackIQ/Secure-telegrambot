@@ -1,8 +1,8 @@
 {
-    "name": "bot Sample",
-    "description": "A barebones SecureTelegram app using Express",
+    "name": "Secure-TelegramBot",
+    "description": "Create a wall to maintain security",
     "repository": "https://github.com/securetelegrambot.git",
-    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "logo": "https://avatars.githubusercontent.com/u/77109284?v=4",
     "keywords": ["python", "telegram", "bot"]
   }
   
