@@ -17,14 +17,12 @@ def dontSend(client, message):
     
     for init in contact:
         if init["first_name"] == firstname:
-            global check
-            if check == False:
-                return
-            else:
-                message.delete()
-                message.reply_text(f"""سلام {firstname} عزیز
-        شما جزي از مخاطبین هستید و اجازه شروع چت را دارید 👨🏽‍🎤""")
-                check = False
+            
+            
+            message.delete()
+            message.reply_text(f"""سلام {firstname} عزیز
+    شما جزي از مخاطبین هستید و اجازه شروع چت را دارید 👨🏽‍🎤""")
+            check = False
 
     if check :
         message.delete()
