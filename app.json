@@ -1,0 +1,8 @@
+{
+    "name": "Secure-TelegramBot",
+    "description": "Create a wall to maintain security",
+    "repository": "https://github.com/securetelegrambot.git",
+    "logo": "https://avatars.githubusercontent.com/u/77109284?v=4",
+    "keywords": ["python", "telegram", "bot"]
+  }
+  

@@ -1,5 +1,12 @@
-<div align="center">
-  <h1> protect Telegram's personal account </h1>
-  <img src="https://raw.githubusercontent.com/Mehranalam/Metal/main/asset/teylor.jpg">
-  <p><i>In an effort to protect Telegram's personal account</i></p>
+<h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
+<div align="right">
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
   </div>
+<p style="text-align: right;direction: rtl;" dir="rtl">معمولا تلگرام این اجازه رو میده که هرکسی بتونه وارد چت شخصی به اصطلاح پی وی بشه این ربات با ارسال پیام حفظ این حریم رو
+  به فرد تذکر میده :)</p>
+<br>
+
+<h3 dir="rtl" style="text-align: right;direction: rtl;">🤝 مشارکت</h3>
+<p dir="rtl" style="text-align: right;direction: rtl;">این پروژه تحت پروانه GPL نسخه 3 منتشر و نگه‌داری می‌شود و از این‌جهت، هرکسی می‌تواند در صورت نیاز اقدام به مشارکت برای اصلاح یا بهبود یا حتی اضافه کردن ویژگی های جدید به این پروژه کند، همچنین ایجاد فورک های مختلف از پروژه و توسعه پروژه در شاخه‌ای جدا، چه به‌صورت رایگان و چه به‌صورت تجاری، هیچگونه مانعی ندارد</p>
