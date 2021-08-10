@@ -1,4 +1,4 @@
-<h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
+<h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرام</h1>
 <div align="right">
 <a href="https://heroku.com/deploy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
