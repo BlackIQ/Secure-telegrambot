@@ -1,3 +1,8 @@
+# Directories
 venv
-.fandogh
+
+# IDE directories
 .idea
+
+# PaaS directory
+.fandogh
