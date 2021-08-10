@@ -17,9 +17,10 @@ def dontSend(client, message):
     contact = app.get_contacts()
     firstname = message.from_user.first_name
     
-    for i in find:
-        if i == firstname:
-            return
+    if len(find) >= 1:
+        for i in find:
+            if i == firstname:
+                return
 
     check = True
     for init in contact:
