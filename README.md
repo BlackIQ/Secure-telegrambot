@@ -1,6 +1,6 @@
 
   <div style="text-align: right;padding: 0;margin: 0;">
-    <img src="review.png" alt="review telegram" style="max-width: 100%;">
+    <img src="review.jpg" alt="review telegram" style="max-width: 100%;">
 </div>
 
 <h1 style="text-align: right;direction: rtl;" dir="rtl">⭕️ ایجاد دیواری برای اکانت شخصی تلگرم</h1>
