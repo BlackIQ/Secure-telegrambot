@@ -1,5 +1,11 @@
-<div align="center">
-  <h1> protect Telegram's personal account </h1>
-  <img src="https://raw.githubusercontent.com/Mehranalam/Metal/main/asset/teylor.jpg">
-  <p><i>In an effort to protect Telegram's personal account</i></p>
-  </div>
+<html dir="rtl" lang="fa">
+  <body>
+<div align="right">
+  <h1>حفظ حریم خصوصی در ایجاد دیواری برای اکانت شخصی تلگرم</h1>
+  <pre> معمولا تلگرام این اجازه رو میده 
+  که هرکسی بتونه وارد جت شخصی یه اصطلاح پی وی بشه این ربات با ارسال پیام این حریم رو
+  یه فرد تذکر میده :)
+  </pre>
+  
+  </body>
+    </html>
