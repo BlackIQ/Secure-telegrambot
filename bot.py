@@ -10,10 +10,10 @@ app = Client("my_account", api_id, api_hash)
     
 
 check = True
+find = list()
 
 @app.on_message(filters.text & filters.private)
 def dontSend(client, message):
-    find = list()
     contact = app.get_contacts()
     firstname = message.from_user.first_name
     
@@ -25,11 +25,12 @@ def dontSend(client, message):
     check = True
     for init in contact:
         if init["first_name"] == firstname:
+            check = False
+            find.append(firstname)
             message.delete()
             message.reply_text(f"""سلام {firstname} عزیز
     شما جزي از مخاطبین هستید و اجازه شروع چت را دارید 👨🏽‍🎤""")
-            check = False
-            find.append(firstname)
+            
             
 
     if check :
