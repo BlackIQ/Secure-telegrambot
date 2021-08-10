@@ -15,6 +15,6 @@
 این فایل دو تا پارامتر میگیرد که اولی ورژن و دومی نام سرویس میباشید</p>
 <p dir="rtl" style="text-align: right;direction: rtl;">مثال:
 </p>
-<pre dir="rtl" style="text-align: left;direction:">$ python3 deploy.py 10 mybot</pre>
+<pre>$ python3 deploy.py 10 mybot</pre>
 <p dir="rtl" style="text-align: right;direction: rtl;">
 به راحتی با ورژن و نام داده شده، خودش روی فندق برای شما دیپلوی خواهد کرد</p>
