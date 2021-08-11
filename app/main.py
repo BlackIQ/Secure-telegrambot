@@ -16,7 +16,11 @@ find = list()
 def dontSend(client, message):
     contact = app.get_contacts()
     firstname = message.from_user.first_name
-    
+    is_bot = message.from_user.is_bot
+
+    if is_bot:
+        return
+        
     if len(find) >= 1:
         for i in find:
             if i == firstname:
