@@ -15,3 +15,4 @@
 
 <h3 dir="rtl" style="text-align: right;direction: rtl;">🧟‍♂️ چطور استفاده کنیم</h3>
 <p dir="rtl" style="text-align: right;direction: rtl;">نصب کتابخانه های مورد نیاز : <code> pip install -r requirements.txt </code></p>
+<p dir="rtl" style="text-align: right;direction: rtl;"> اجرای کد : <code> python app/main.py </code></p>
