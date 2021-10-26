@@ -1,5 +1,3 @@
-# this bot openSoure in protect from telegram Account ...
-
 from logging import fatal
 from pyrogram import Client , filters
 
@@ -8,7 +6,6 @@ api_hash = "YOUR HASH"
 
 app = Client("my_account", api_id, api_hash)
     
-
 check = True
 find = list()
 
@@ -32,19 +29,15 @@ def dontSend(client, message):
             check = False
             find.append(firstname)
             message.delete()
-            message.reply_text(f"""سلام {firstname} عزیز
-شما جزي از مخاطبین هستید و اجازه شروع چت را دارید 👨🏽‍🎤
-لیست آپدیت شد...""")
-            
-            
+            message.reply_text(
+                f"""سلام {firstname} عزیز
+                شما جزي از مخاطبین هستید و اجازه شروع چت را دارید 👨🏽‍🎤
+                لیست آپدیت شد..."""
+            )
 
-    if check :
+    if check:
         message.delete()
         output = """🧠 حریم شخصی رو رعایت کنید"""
-
-        message.reply_text(output)
-            
-
-    
+        message.reply_text(output)    
 
 app.run() 
